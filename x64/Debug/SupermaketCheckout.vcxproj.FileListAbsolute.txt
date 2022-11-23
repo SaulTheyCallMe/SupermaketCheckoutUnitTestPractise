@@ -1,0 +1,4 @@
+C:\Users\Saulius\Desktop\Coding\VirtualStudio\SupermaketCheckout\x64\Debug\SupermaketCheckout.vcxproj.CopyComplete
+C:\Users\Saulius\Desktop\Coding\VirtualStudio\SupermaketCheckout\x64\Debug\SupermaketCheckout.exe
+C:\Users\Saulius\Desktop\Coding\VirtualStudio\SupermaketCheckout\x64\Debug\gtest.pdb
+C:\Users\Saulius\Desktop\Coding\VirtualStudio\SupermaketCheckout\x64\Debug\gtest_main.pdb
